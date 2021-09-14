@@ -1,0 +1,11 @@
+.content-dev{ border:0px solid #000;  display: flex; flex-direction: column; background:#f5f5ed;}
+.content-dev .header{ border:0px solid #000; width: 100%; display: flex; justify-content: center; align-items: center;}
+.content-dev .header h2{ color:#000; font-family: 'Indie Flower', cursive;}
+.content-dev .footer{ border:0px solid #000; width: 100%; display: flex; justify-content: center; align-items: center;}
+
+.content-dev .main{ border: 1px solid #CCC; width: 100%; color:#000; font-family: 'Catamaran', sans-serif;
+    font-size: 16px; font-weight: 100; line-height: 20px; letter-spacing: 1px;}
+    .content-dev .main b{ font-weight: 700 ;}
+
+    .content-foto{  display: flex; flex-direction: row;}
+    .content-foto div{ border:1px solid #C1C1C1;}
